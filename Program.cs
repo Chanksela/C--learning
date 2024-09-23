@@ -1,1 +1,1 @@
-﻿RenewalSubscriptionRate.DisplayResult();
+﻿Console.WriteLine("Hello, C#!");
